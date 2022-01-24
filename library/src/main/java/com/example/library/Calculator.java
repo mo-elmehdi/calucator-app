@@ -2,7 +2,7 @@ package com.example.library;
 
 public class Calculator {
 
-    public int sum(int a, int b){
-        return a+b;
+    public int sum(int x, int y){
+        return x+y;
     }
 }
